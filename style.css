@@ -418,5 +418,14 @@ footer{
     .services-list {
         flex-direction: column; /* Stack services vertically */
     }
+
+    #contact {
+        flex-direction: column;
+    }
+
+    #album .photo {
+        display: flex;
+        flex-direction: column;
+    }
     
 }
