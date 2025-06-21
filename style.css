@@ -420,7 +420,7 @@ footer{
     }
 
     #contact {
-        flex-direction: column;
+        flex-direction: column; /*stack photo verticaly*/
     }
 
     #album .photo {
